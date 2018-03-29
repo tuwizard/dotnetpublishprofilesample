@@ -1,0 +1,1 @@
+﻿msbuild WebPublishCommandlineSample.sln /p:DeployOnBuild=true /p:PublishProfile=SampleFolderProfile
